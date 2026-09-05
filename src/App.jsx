@@ -63,7 +63,7 @@ function App() {
       <h1 style={{color:'#00d8ff', textAlign:'center'}}>ADVANCED WEB DESIGNING - REACT</h1>
       <h2 style={{color:'white'}}>Q1: Student Profile Card</h2>
       <StudentCard
-        name="Pradip"
+        name="krish"
         course="BCA"
         semester="5th"
         email="krish0095@gmail.com"
