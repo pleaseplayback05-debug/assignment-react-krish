@@ -8,13 +8,6 @@ function App() {
   return (
     <div style={{padding: '20px'}}>
       <h1>React Assignment - Krish</h1>
-      
-      <div className="card">
-        <h2>Q1: Counter</h2>
-        <p>Count: {count}</p>
-        <button onClick={() => setCount(count+1)}>+</button>
-        <button onClick={() => setCount(count-1)} style={{marginLeft:'10px'}}>-</button>
-      </div>
 
       <div className="card">
         <h2>Q2: Student Card (Props)</h2>
