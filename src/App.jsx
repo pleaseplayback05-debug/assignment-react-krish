@@ -23,7 +23,7 @@ function StudentCard({ name, course, semester, email, phone, city }) {
   )
 }
 
-function TextStats({ charCount, wordCount }) {
+function TextStats({ charCount, wordcount }) {
   return (
     <div>
       <p>Number Of Characters: {charCount}</p>
@@ -66,9 +66,9 @@ function App() {
         name="Pradip"
         course="BCA"
         semester="5th"
-        email="pradip@gmail.com"
-        phone="9876543210"
-        city="Gandhidham"
+        email="krish0095@gmail.com"
+        phone="8735610752"
+        city="navsari"
       />
       <TextAnalyzer />
     </div>
